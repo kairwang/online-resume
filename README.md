@@ -1,6 +1,6 @@
 # online-resume
 
-- This project is a simple, elegant online resume website built using only HTML. 
+- This project is a simple, elegant online resume website built with only HTML. 
 
 - It provides a clean and professional layout to showcase your personal information, work experience, education, skills, and portfolio projects. 
 
